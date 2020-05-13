@@ -5,7 +5,7 @@
 
 [个人主页](http://wink.run/)
 [GitHub](https://github.com/2239489555)
-[开始阅读](#docsify-demo)
+[开始阅读](#成东日)
 
 
 
