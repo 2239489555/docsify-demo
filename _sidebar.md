@@ -24,3 +24,7 @@
   * [可视化管理工具Portainer安装](./docs/可视化管理工具Portainer安装.md)
   
 
+* 常见报错
+
+  * [安装最小的CentOS7使用yum报错](./docs/安装最小的CentOS7使用yum报错.md)
+
