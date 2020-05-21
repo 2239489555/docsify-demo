@@ -26,3 +26,11 @@ curl -o /etc/yum.repos.d/CentOS-Base.repo http://mirrors.aliyun.com/repo/Centos-
 缺少文件，从阿里云下载更新缺失的文件
 ```
 
+### 安装Ansible
+
+```shell
+rpm -Uvh https://mirrors.aliyun.com/epel/epel-release-latest-7.noarch.rpm
+
+yum install ansible -y
+```
+
