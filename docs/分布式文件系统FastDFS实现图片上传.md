@@ -1,7 +1,5 @@
 # 分布式文件系统 FastDFS实现图片上传
 
-##### @author 程威
-
 ### FastDFS简介
 
 ```text
